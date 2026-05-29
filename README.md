@@ -1,6 +1,6 @@
 # AI Companion — Production Local AI Desktop Platform
 
-A fully local, production-ready Windows AI companion with voice interaction,
+A fully local, Windows AI companion with voice interaction,
 screen awareness, desktop automation, persistent memory, and adaptive learning.
 
 **Runs entirely on your machine. No cloud. No subscriptions.**
